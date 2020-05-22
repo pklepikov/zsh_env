@@ -13,6 +13,8 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 
 ## Copy '.xxx' files
 Copy files to a $HOME directory
+wget https://raw.githubusercontent.com/pklepikov/zsh_env/master/.p10k.zsh
+wget https://raw.githubusercontent.com/pklepikov/zsh_env/master/.zshrc
 
 ## Install Fonts on SSH client side (optional)
 	• MesloLGS NF Regular.ttf
