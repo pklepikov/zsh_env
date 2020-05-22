@@ -1,7 +1,7 @@
 # Install
 
 ## Get proper ZSH version Centos 7
-wget http://mirror.ghettoforge.org/distributions/gf/el/7/plus/x86_64/zsh-5.1-1.gf.el7.x86_64.rpm
+wget http://mirror.ghettoforge.org/distributions/gf/el/7/plus/x86_64/zsh-5.1-1.gf.el7.x86_64.rpm\n
 rpm -Uvh zsh-5.1-1.gf.el7.x86_64.rpm
 
 ## Install "OhMyZSH"
